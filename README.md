@@ -76,9 +76,27 @@
 ## Package Managers
 - [x] NPM
 
+## Testing
+- [ ] JEST
+
 ## Framework Front-End
 - React.js
-    [ ] Redux
-    [ ] MobX
+    - [ ] Redux
+    - [ ] MobX
 
+## CSS Frameworks
+- [ ] Reactstrap
+- [ ] Material UI
+- [x] Bootstrap
 
+## Mobile
+- [ ] Flutter
+
+# Databases
+- Relational DB
+    - [x] mySQL
+    - [x] SQLite
+    - [x] PostgreSQL
+
+- NoSQL Databases
+    - [x] MongoDB
