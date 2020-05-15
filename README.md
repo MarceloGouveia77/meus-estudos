@@ -51,33 +51,34 @@
 - [x] Apache
 
 # FRONT-END / MOBILE
+
 ## HTML
-    - [x] Learn the basics
-    - [x] Forms and Validations
-    - [ ] Conventions and Best Practices
+- [x] Learn the basics
+- [x] Forms and Validations
+- [ ] Conventions and Best Practices
 ## CSS
-    - [x] Learn the basics
-    - [x] Making Layouts
-    - Responsive design and Media Queries
-        - [ ] Floats
-        - [ ] Positioning
-        - [ ] Display
-        - [ ] Box Model
-        - [ ] CSS Grid
-        - [ ] Flex Box
+- [x] Learn the basics
+- [x] Making Layouts
+- Responsive design and Media Queries
+    - [ ] Floats
+    - [ ] Positioning
+    - [ ] Display
+    - [ ] Box Model
+    - [ ] CSS Grid
+    - [ ] Flex Box
 ## Javascript
-    - [x] Syntax and Basic Constructs
-    - [ ] Learn DOM manipulation
-    - [ ] Learn Fetch API / aJAX (XHR)
-    - [ ] ES6+ and modular JavaScript
-    - [ ] Concepts (Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM, Strict)
+- [x] Syntax and Basic Constructs
+- [ ] Learn DOM manipulation
+- [ ] Learn Fetch API / aJAX (XHR)
+- [ ] ES6+ and modular JavaScript
+- [ ] Concepts (Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM, Strict)
 
 ## Package Managers
-    - [x] NPM
+- [x] NPM
 
 ## Framework Front-End
-    - React.js
-        [ ] Redux
-        [ ] MobX
+- React.js
+    [ ] Redux
+    [ ] MobX
 
 
